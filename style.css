@@ -1,0 +1,16 @@
+#feuille de style CSS
+body{
+    font: normal;
+}
+
+div{
+    border-radius: 20px;
+}
+.sidebar{
+    background: #ccc;
+    height: 80vh;
+}
+.contenu{
+    background-color: aquamarine;
+    height: 80vh;
+}
