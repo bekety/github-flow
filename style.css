@@ -1,16 +1,23 @@
 #feuille de style CSS
+html{
+    
+}
 body{
     font: normal;
+    background: url(image/bg.jpg);
+    background-size: cover;
 }
 
 div{
     border-radius: 20px;
 }
 .sidebar{
-    background: #ccc;
+    background: rgba(61, 2, 2, 0.7);
     height: 80vh;
+    color: #ffffff;
 }
 .contenu{
-    background-color: aquamarine;
+    background-color: rgba(12, 12, 12, 0.7);
     height: 80vh;
+    color: #ffffff;
 }
